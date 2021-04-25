@@ -1,7 +1,10 @@
 # CompGraphicsAndVisualization
 CS-330 Project Repository
 
-...entire zip file of project was too large to upload...
+***My finalized 3D Scene:***
+
+![3dScene](https://user-images.githubusercontent.com/83179665/116008288-c9fda500-a5e1-11eb-9ddd-8b5af400b670.PNG)
+
 
 # How do I approach designing software?
 The design process behind this piece of software was first and foremost focused on modularized code. I wanted to design functions that served a wide variety of purposes that I could call within my program rather than to re-use a ton of the same lines of code. Admittedly, I could have done this better given more time, but there are a few aspects of this program in which I accomplished this. My CreateMesh() function took in an identifier parameter that determined what mesh would be generated when the function was called. This way I only used one method rather than many. My Render() function served a similar purpose. Programming it to allow multiple meshes be passed to it meant that I could call the function once and render whichever meshses I wished within it.
