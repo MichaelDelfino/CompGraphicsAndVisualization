@@ -1,7 +1,7 @@
 # CompGraphicsAndVisualization
 CS-330 Project Repository
 
-***My finalized 3D Scene:***
+***My OpenGL 3D Scene:***
 
 ![3dScene](https://user-images.githubusercontent.com/83179665/116008288-c9fda500-a5e1-11eb-9ddd-8b5af400b670.PNG)
 
